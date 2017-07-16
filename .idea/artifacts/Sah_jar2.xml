@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sah:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sah_jar2</output-path>
+    <root id="archive" name="Sah.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/nesto/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Sah" />
+    </root>
+  </artifact>
+</component>
